@@ -1,1 +1,1 @@
-# Employee-database
+The Employee Database project is a React application that helps manage employee information efficiently. Users can add, view, edit, and delete employee details through a user-friendly interface. The app leverages React’s state management and component-based structure to handle data operations seamlessly. This ensures that any changes in the employee data are immediately reflected in the UI, providing a dynamic and interactive experience for managing employee records.
