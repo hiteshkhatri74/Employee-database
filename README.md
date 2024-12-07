@@ -1,1 +1,3 @@
 The Employee Database project is a front-end application built using JavaScript. It allows users to manage employee information efficiently through a web interface. Users can add new employees, view a list of existing employees, edit their details, and delete records as needed. The application dynamically updates the displayed data in response to user actions, providing immediate feedback. JavaScript's DOM manipulation capabilities enable a smooth and interactive user experience, ensuring that all changes are instantly reflected on the page without the need for a full page reload.
+## Live demo
+[click here to view the demo] (https://hiteshkhatri74.github.io/Employee-database/)
